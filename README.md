@@ -16,7 +16,7 @@ Groq LLM API for chat responses
 
 Gradio for the UI
 
-🚀 How it Works
+**🚀 How it Works**
 
 Upload an image
 The BLIP model generates a high-quality caption from the image.
@@ -49,14 +49,12 @@ or
 ├── app.py                         # Main Gradio app
 ├── requirements.txt               # Dependencies (CPU-friendly)
 ├── README.md                      # Project documentation
-
 ├── artifacts/                     # All search-related data
 │   ├── products.csv
 │   ├── products_meta.pkl
 │   ├── products.index            
 │   ├── product_embeddings.npy
 │   └── (any other metadata files)
-
 ├── pics_products/            
 │   ├── img_001.jpg
 │   ├── img_002.jpg
@@ -64,7 +62,7 @@ or
 │   └── ... (all product images here)
 
 
-🛠️ Dependencies
+**🛠️ Dependencies**
 
 torch (CPU build)
 
@@ -80,8 +78,8 @@ groq
 
 Your requirements.txt is configured to match HuggingFace space limits.
 
-🖼️ Models Used
-Image Captioning
+**🖼️ Models Used
+Image Captioning**
 
 Salesforce/blip-image-captioning-base
 
@@ -97,7 +95,7 @@ Chat Model
 
 llama-3.1-8b-instant via Groq API
 
-▶️ Running Locally
+**▶️ Running Locally**
 
 Install dependencies:
 
@@ -113,7 +111,7 @@ Run:
 
 python app.py
 
-🙌 Credits
+**🙌 Credits**
 
 Salesforce Research – BLIP
 
