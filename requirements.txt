@@ -1,9 +1,11 @@
-gradio
+numpy<2.0
+torch==2.6.0
 groq
-transformers
-sentence-transformers
-faiss-cpu
+transformers==4.44.2
+sentence-transformers==2.6.1
+faiss-cpu==1.7.4
 pillow
-torch
 pandas
-numpy
+scikit-learn
+accelerate
+gradio==4.44.0
