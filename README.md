@@ -54,12 +54,7 @@ or
 │   ├── products_meta.pkl
 │   ├── products.index            
 │   ├── product_embeddings.npy
-│   └── (any other metadata files)
 ├── pics_products/            
-│   ├── img_001.jpg
-│   ├── img_002.jpg
-│   ├── img_003.jpg
-│   └── ... (all product images here)
 
 
 **🛠️ Dependencies**
