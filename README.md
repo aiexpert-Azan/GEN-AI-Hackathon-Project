@@ -1,4 +1,5 @@
-🛍️ Multimodal RAG for ecommerce product Assistant
+**🛍️ Multimodal RAG for ecommerce product Assistance**
+
 Image → Caption → Vector Search → AI Answering
 
 This Space lets you upload any product image, automatically generate a caption, retrieve visually similar products, and then ask a natural-language question that the AI answers using the retrieved product context.
