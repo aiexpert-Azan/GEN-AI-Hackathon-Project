@@ -46,10 +46,10 @@ or
 
 🧩 Project Structure
 /
-├── app.py                         # Main Gradio app
-├── requirements.txt               # Dependencies (CPU-friendly)
-├── README.md                      # Project documentation
-├── artifacts/                     # All search-related data
+├── app.py
+├── requirements.txt               
+├── README.md                     
+├── artifacts/                     
 │   ├── products.csv
 │   ├── products_meta.pkl
 │   ├── products.index            
