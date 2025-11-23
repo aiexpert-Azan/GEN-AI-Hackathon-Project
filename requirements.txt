@@ -1,0 +1,9 @@
+gradio
+groq
+transformers
+sentence-transformers
+faiss-cpu
+pillow
+torch
+pandas
+numpy
